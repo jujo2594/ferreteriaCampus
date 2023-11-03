@@ -1,0 +1,14 @@
+C:\Users\Juan J Galan\Documents\JuanJose\Estudio\CAMPUSLAND\C#\ferreteriaCampus\bin\Debug\net7.0\ferreteriaCampus.exe
+C:\Users\Juan J Galan\Documents\JuanJose\Estudio\CAMPUSLAND\C#\ferreteriaCampus\bin\Debug\net7.0\ferreteriaCampus.deps.json
+C:\Users\Juan J Galan\Documents\JuanJose\Estudio\CAMPUSLAND\C#\ferreteriaCampus\bin\Debug\net7.0\ferreteriaCampus.runtimeconfig.json
+C:\Users\Juan J Galan\Documents\JuanJose\Estudio\CAMPUSLAND\C#\ferreteriaCampus\bin\Debug\net7.0\ferreteriaCampus.dll
+C:\Users\Juan J Galan\Documents\JuanJose\Estudio\CAMPUSLAND\C#\ferreteriaCampus\bin\Debug\net7.0\ferreteriaCampus.pdb
+C:\Users\Juan J Galan\Documents\JuanJose\Estudio\CAMPUSLAND\C#\ferreteriaCampus\obj\Debug\net7.0\ferreteriaCampus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan J Galan\Documents\JuanJose\Estudio\CAMPUSLAND\C#\ferreteriaCampus\obj\Debug\net7.0\ferreteriaCampus.AssemblyInfoInputs.cache
+C:\Users\Juan J Galan\Documents\JuanJose\Estudio\CAMPUSLAND\C#\ferreteriaCampus\obj\Debug\net7.0\ferreteriaCampus.AssemblyInfo.cs
+C:\Users\Juan J Galan\Documents\JuanJose\Estudio\CAMPUSLAND\C#\ferreteriaCampus\obj\Debug\net7.0\ferreteriaCampus.csproj.CoreCompileInputs.cache
+C:\Users\Juan J Galan\Documents\JuanJose\Estudio\CAMPUSLAND\C#\ferreteriaCampus\obj\Debug\net7.0\ferreteriaCampus.dll
+C:\Users\Juan J Galan\Documents\JuanJose\Estudio\CAMPUSLAND\C#\ferreteriaCampus\obj\Debug\net7.0\refint\ferreteriaCampus.dll
+C:\Users\Juan J Galan\Documents\JuanJose\Estudio\CAMPUSLAND\C#\ferreteriaCampus\obj\Debug\net7.0\ferreteriaCampus.pdb
+C:\Users\Juan J Galan\Documents\JuanJose\Estudio\CAMPUSLAND\C#\ferreteriaCampus\obj\Debug\net7.0\ferreteriaCampus.genruntimeconfig.cache
+C:\Users\Juan J Galan\Documents\JuanJose\Estudio\CAMPUSLAND\C#\ferreteriaCampus\obj\Debug\net7.0\ref\ferreteriaCampus.dll
